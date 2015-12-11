@@ -7,10 +7,9 @@ So many things to do when you get a new laptop and I just want to remember them 
 
 I'm so indecisive when it comes to writing stuff down and then I get all hung up on the formatting instead of getting the information down. `do I want to do this in a list or headlines... sigh`  I know that good content > formatting but what ever I'm a little OCD so what ever.
 
-## [Iterm](https://www.iterm2.com)
+## Desktop apps
 
-Because terminal is too boring.  Not a whole lot more to say here.
-
+1. [Iterm](https://www.iterm2.com) - Because terminal is too boring.  Not a whole lot more to say here.
 1. [Webstorm](https://www.jetbrains.com) - as of this writing, jetbrains just redid their website.  I guess they wanted to get all fancy and actually do care about formatting lol.  I write a lot of javascript so this is usually what I need.
 1. [atom](https://atom.io) - Great for general text editing and other simple stuff when you don't need a whole lot of other cruft that goes along with jetbrains IDE stuff.  Currently writing this readme in atom :)
 1. [Parallels](http://www.parallels.com) - you know what to do.  buy it.  Plus interestingly, their website is not https.

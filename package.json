@@ -1,0 +1,23 @@
+{
+  "name": "new-laptop",
+  "version": "1.0.0",
+  "description": "Collection of info about setting up a new MBPro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhnlsn/new-laptop.git"
+  },
+  "author": "jhnlsn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhnlsn/new-laptop/issues"
+  },
+  "homepage": "https://github.com/jhnlsn/new-laptop#readme",
+  "dependencies": {
+    "mysql": "^2.9.0",
+    "pg": "^4.4.3"
+  }
+}

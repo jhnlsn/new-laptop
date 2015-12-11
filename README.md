@@ -16,9 +16,9 @@ I'm so indecisive when it comes to writing stuff down and then I get all hung up
 - [Spotify](https://www.spotify.com/us/) - if you don't listen to music while you code, then I don't know what to tell you.
 - [1password](https://agilebits.com/onepassword) - I don't care what sort of password manager you use, but use one kids.  Don't use drugs and the same password on all of your websites!  Pick one or the other or something like that!
 
-## Iterm
+## [Iterm](https://www.iterm2.com)
 
-Because terminal is too boring.  Not a whole lot more to say here. [Iterm2](https://www.iterm2.com)
+Because terminal is too boring.  Not a whole lot more to say here.
 
 ## Webstorm
 

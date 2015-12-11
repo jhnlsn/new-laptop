@@ -10,6 +10,10 @@ Took inspiration from a couple of other places. https://github.com/nicolashery/m
 I'm so indecisive when it comes to writing stuff down and then I get all hung up on the formatting instead of getting the information down. `do I want to do this in a list or headlines... sigh`  I know that good content > formatting but what ever I'm a little OCD so what ever.
 
 - [Iterm](#iterm)
+- [Homebrew](#homebrew)
+- [oh my zsh](oh-my-zsh)
+- [nvm](#nvm)
+- [Git](#git)
 - [Webstorm](#webstorm)
 - [Atom](#atom)
 - [Parallels](#parallels)
@@ -19,7 +23,37 @@ I'm so indecisive when it comes to writing stuff down and then I get all hung up
 
 ## [Iterm](https://www.iterm2.com)
 
-Because terminal is too boring.  Not a whole lot more to say here.
+Because terminal is too boring.  Not a whole lot more to say here and yes I'm that opinionated.
+
+## [Homebrew](http://brew.sh)
+
+You could use another package manager like macports, but just don't.  You're probably also thinking to yourself, why is this guy not writing up how to install this stuff here?  Well, thanks for thinking about it!  Since my voice is in your head for the time being, let me just sing the song of my people. Weird huh?  Yea i'm a bit weird, but you are reading this after all :p
+
+Anyways, i'm not going to tell you how to install this thing or most other things unless there is some weird quirks that I found while installing.  Ok bye.
+
+## [Oh My Zsh](http://ohmyz.sh)
+
+Spending most of the day in the terminal and at the end of the day my brain can only hold so many command shortcuts, which is why this is a must!  It's only as good as the plugins you have activated.  Go to your `~/.zshrc` file and edit the plugins list to add the stuff you use the most.
+
+### Plugins
+
+My current config.
+
+```
+plugins=(git docker docker-compose node npm nvm gitignore httpie)
+```
+
+## [NVM](https://github.com/creationix/nvm)
+
+Like RVM, but for node.  Enables you to install multiple versions of node and switch between them.  Very useful for development.  Also encapsulates your global modules, which is helpful sometimes and a pain in the ass others.
+
+## Git
+
+Yay we have homebrew so this is easy!
+
+```
+brew install git
+```
 
 ## [Webstorm](https://www.jetbrains.com/webstorm/)
 
@@ -31,7 +65,7 @@ Great for general text editing and other simple stuff when you don't need a whol
 
 ## [Parallels](http://www.parallels.com)
 
-You know what to do.  buy it.  Plus interestingly, their website is not https.
+You know what to do.  $Buy it$.  Plus interestingly, their website is not https.
 
 ## [Spotify](https://www.spotify.com/)
 

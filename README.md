@@ -5,7 +5,7 @@ So many things to do when you get a new laptop and I just want to remember them 
 
 Took inspiration from a couple of other places. https://github.com/nicolashery/mac-dev-setup
 
-# Desktop Software
+# All the stuff
 
 I'm so indecisive when it comes to writing stuff down and then I get all hung up on the formatting instead of getting the information down. `do I want to do this in a list or headlines... sigh`  I know that good content > formatting but what ever I'm a little OCD so what ever.
 
